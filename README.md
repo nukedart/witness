@@ -16,7 +16,7 @@ Visualize your device communication, network activity in detail, manage network 
 
 Front-End Development: 
 - [ ] Build road map
-- [ ]
+- [ ] Build initial interface
 - [ ] Create Install package and distribution branch
 
 
