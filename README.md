@@ -1,14 +1,29 @@
-#Witness
+# Witness
 
 Visualize your device communication, network activity in detail, manage network connections, and detect malicious behavior.
 
 
+#### Core values: 
+* Simplicity 
+* Speed
+* Value added
+
+
+#### Core Features: 
+* Host based DLP
+* Proxy and monitor all network traffic
+* Visualize, Map, and information on all network connections
+* Block Traffic, by type, by regions, by IPs, apps, or data type blocks
+* Create secure tunneling to VPN providers or personal node
+* AD and tracking url blocks and inform
+
+
+
 #### Features: 
 
-- [ ] Monitor network traffic
-- [ ] Visualize network traffic
+- [ ] Monitor and visualize network traffic
 - [ ] DNS look up on traffic IPs
-- [ ] Search through network traffic
+- [ ] Search through network traffic history
 
 
 #### Work to go 
@@ -31,13 +46,13 @@ Build Project
 ```
 cd witness
 
-npm build
+npm install
 ```
 
 Build React
 
 ```
-npm run start
+npm start
 ```
 
 Build Electron 
